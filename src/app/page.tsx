@@ -11,7 +11,7 @@ export default function Home() {
     <div className="flex">
         <Sidebar />
         <div className="flex-1 p-4 bg-gray-900">
-            <Header title="Página Inicial" username="Júlio" />
+            <Header title="Página inicial" username="Júlio" />
             <main className="p-4 flex-1">
                 <div className="grid grid-cols-4 gap-4">
 
